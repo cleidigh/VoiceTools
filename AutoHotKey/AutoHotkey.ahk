@@ -1,5 +1,5 @@
 ; cleidigh - autohotKey commands 
-; assign these to whatever you want with Dragon
+; Assign these to whatever you want with Dragon
 
 ; dragonfly commands example
 ;        "navigation":                  Key("c-t"),
